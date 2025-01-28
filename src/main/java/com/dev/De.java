@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
-public class Dev {
+public class De {
 	@GetMapping("/getKit")
 	public String getKit() {
-		return "devOps";
+		return "devOpss";
 	}
 	
 
